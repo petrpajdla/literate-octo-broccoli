@@ -1,2 +1,3 @@
-# literate-octo-broccoli
-Test repo for a workshop.
+# Testovací repozitář
+
+Test repo for a workshop. Fuu Bar.
